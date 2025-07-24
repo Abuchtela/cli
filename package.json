@@ -8,8 +8,8 @@
     "build:preview": "gatsby build"
   },
   "dependencies": {
-    "@primer/gatsby-theme-doctocat": "^4.0.0",
-    "gatsby": "^2.32.13",
+    "@primer/gatsby-theme-doctocat": "^5.1.0",
+    "gatsby": "^4.22.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
